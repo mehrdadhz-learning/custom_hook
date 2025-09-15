@@ -54,11 +54,6 @@ After completing this lab, you will be able to:
 
 ---
 
-## 📷 Demo / Output
-*(Include screenshots or a gif of your app output here)*  
-
----
-
 ## 🏁 Conclusion
 This lab gives hands-on practice in creating **custom hooks** for data fetching in React, reinforcing concepts of state management and side effects, while building dynamic and maintainable user interfaces.  
 
